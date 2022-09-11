@@ -24,6 +24,11 @@ header {
     padding: 0 15px;
 }
 
+.section {
+    padding-top: 94px;
+    padding-bottom: 94px;
+}
+
 .header {
 display: flex;
     align-items: center;
@@ -125,7 +130,12 @@ display: flex;
 
 
 .h1_section {
-   
+   background: #2F303A;
+    height: 600px;
+        display: flex;
+        flex-direction: column;
+        padding-top: 200px;
+        width: 100%;
 }
 .h1 {
     
@@ -140,7 +150,9 @@ display: flex;
         text-transform: uppercase;
     
         color: #FFFFFF;
+        margin:0 auto
 }
+
 .h1_btn {
 font-family: 'Roboto';
 font-style: normal;
@@ -159,6 +171,8 @@ font-style: normal;
     background-color:  #2196F3;;
 box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
     border-radius: 4px;
+   margin:0 auto
+
    
 }
 
