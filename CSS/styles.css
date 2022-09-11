@@ -227,6 +227,7 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
         letter-spacing: 0.03em;
     
         color: #212121;
+        padding-bottom: 50px;
 }
 
 .img_list {
@@ -249,6 +250,9 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 
 .team_list {
 list-style: none;
+display: flex;
+    justify-content: center;
+    gap: 30px;
 }
 
 
