@@ -232,6 +232,13 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 
 .img_list {
     list-style: none;
+    justify-content: center;
+}
+
+.img{
+    display: inline-block;
+        width: 370px;
+        height: 294px;
 }
 
 .team_img_h5 {
