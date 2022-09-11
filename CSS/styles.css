@@ -184,8 +184,14 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 
 .list {
     list-style: none;
+    display: flex;
+        justify-content: center;
+        gap: 30px;
 }
 
+.list_item {
+    display: inline-block;
+}
 .list_item_h4 {
     
     font-style: normal;
