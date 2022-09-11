@@ -241,6 +241,16 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
         height: 294px;
 }
 
+.team_section {
+    position: absolute;
+        width: 1600px;
+        height: 648px;
+        left: 0px;
+        top: 1449px;
+    
+        background: #F5F4FA;
+}
+
 .team_img_h5 {
    
         font-style: normal;
