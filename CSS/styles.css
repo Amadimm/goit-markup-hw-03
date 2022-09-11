@@ -363,6 +363,11 @@ font-family: 'Roboto';
 /* =======END MAIN====== */
 
 /* =======FOOTER====== */
+
+.navigation_link--secondary {
+    color: #FFFFFF
+}
+
 .footer {
     background: #2F303A;
 }
