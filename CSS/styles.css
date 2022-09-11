@@ -125,12 +125,7 @@ display: flex;
 
 
 .h1_section {
-    background: #2F303A;
-height: 600px;
-    display: flex;
-    flex-direction: column;
-    padding-top: 200px;
-    width: 1600px;
+   
 }
 .h1 {
     
@@ -155,10 +150,7 @@ font-style: normal;
     /* identical to box height, or 188% */
     
 
-    display: flex;
-    align-items: center;
-    text-align: center;
-    letter-spacing: 0.06em;
+ 
 
     color: #FFFFFF;
 
